@@ -356,7 +356,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/darasani-now-1-480x515.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": false,
                 "playVideo": false,
@@ -370,13 +370,13 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "We Offer Curriculum Teaching From PP1 To<br> Form 4.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger-outline\" data-app-placeholder=\"Type Text\" href=\"https://docs.google.com/forms/d/1PY90rnqJqzCcYNmGrFx5BJytrwzqQMboR3A9_e867-s/edit\" data-toolbar=\"-mbrBtnMove\">Secondary Registration</a> ",
                 "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/darasani-now-398x409.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": false,
                 "playVideo": false,
@@ -390,12 +390,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Do Not Play Around With Your Child's Education. His/Her Future Depends On This.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger-outline\" data-app-placeholder=\"Type Text\" href=\"https://docs.google.com/forms/d/1B17B5Qkmj1FXEoDSUgULKESGTebNuJNNzZEoPrPgE1g/edit\" data-toolbar=\"-mbrBtnMove\">Primary Registration</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/darasani-now-3-1024x640.jpeg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": false,
                 "playVideo": false,
@@ -409,12 +409,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "We Do More Than Teach. We Also Mentor and Open Up Opportunities For Our Students, Teachers and Parents.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger-outline\" data-app-placeholder=\"Type Text\" href=\"https://docs.google.com/forms/d/1PY90rnqJqzCcYNmGrFx5BJytrwzqQMboR3A9_e867-s/edit\" data-toolbar=\"-mbrBtnMove\">Secondary Regisration</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/darasani-now-4-800x533.jpeg",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": false,
                 "playVideo": false,
@@ -428,7 +428,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "The Future Of Education Is Online!<br>Join The Revolution.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger-outline\" data-app-placeholder=\"Type Text\" href=\"https://docs.google.com/forms/d/1B17B5Qkmj1FXEoDSUgULKESGTebNuJNNzZEoPrPgE1g/edit\" data-toolbar=\"-mbrBtnMove\">Primary Registration</a> ",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#0b0b0b"
               }
