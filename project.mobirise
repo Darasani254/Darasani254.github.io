@@ -350,7 +350,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": "7000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -429,7 +429,8 @@
                 "contentAlign": "center",
                 "text": "The Future Of Education Is Online!<br>Join The Revolution.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
+                "overlayOpacity": "0.2",
+                "overlayColor": "#0b0b0b"
               }
             ]
           }
