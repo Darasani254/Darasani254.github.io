@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -412,7 +412,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger-outline\" data-app-placeholder=\"Type Text\" href=\"https://docs.google.com/forms/d/1PY90rnqJqzCcYNmGrFx5BJytrwzqQMboR3A9_e867-s/edit\" data-toolbar=\"-mbrBtnMove\">Secondary Regisration</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/darasani-now-4-800x533.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/darasani-now-1-480x515.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
