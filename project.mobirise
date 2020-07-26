@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page6.html",
+    "currentPage": "fasihi.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3699,7 +3699,7 @@
         }
       ]
     },
-    "page6.html": {
+    "fasihi.html": {
       "settings": {
         "title": "Fasihi",
         "meta_descr": "Home",
